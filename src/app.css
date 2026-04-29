@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* El resto de tu código abajo */
+img {
+    image-rendering: pixelated;
+}
